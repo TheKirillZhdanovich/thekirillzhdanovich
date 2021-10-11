@@ -3,6 +3,7 @@
 ### Languages and Tools
  ![Java](https://img.shields.io/badge/-Java-151719??style=for-the-badge&logo=java&logoColor=ffffff)
  ![Spring](https://img.shields.io/badge/-Spring-151719??style=for-the-badge&logo=spring&logoColor=00a550)
+ ![Hibernate](https://img.shields.io/badge/-Hibernate-151719??style=for-the-badge&logo=hibernate&logoColor=ffd700)
  ![SQL](https://img.shields.io/badge/-SQL-151719??style=for-the-badge&logo=postgresql&logoColor=0000ff)
 
 ### My Links
