@@ -3,4 +3,4 @@
  
  
 ## Languages and Tools:
-![Java](https://img.shields.io/badge/-Java-ffff00??style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/-Java-000000??style=for-the-badge&logo=java&logoColor=ffffff)
